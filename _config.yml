@@ -1,5 +1,5 @@
 #на будущее
 
 #Карта сайта (хз для кого я это пишу)
-#plugins:
-#  - jekyll-sitemap
+plugins:
+  - jekyll-sitemap
